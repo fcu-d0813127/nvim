@@ -1,0 +1,11 @@
+require('basic')
+require('keybindings')
+require('plugins')
+require('plugin-config/theme')
+require('plugin-config/treesitter')
+require('plugin-config/nvimtree')
+require('plugin-config/indentblankline')
+require('plugin-config/barbar')
+require('lsp/lspzero')
+require('lualine').setup()
+
