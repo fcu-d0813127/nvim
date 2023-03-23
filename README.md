@@ -8,7 +8,7 @@ A simple neovim config.
 - [Nerd Font](https://www.nerdfonts.com/), need this font for correct display webicon
 
 ## Quick start
-Windows
+Windows powershell
 ```
 git clone https://github.com/fcu-d0813127/nvim.git "$env:LOCALAPPDATA\nvim"
 ```
